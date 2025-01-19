@@ -1,1 +1,10 @@
+#Default config
+module:
+  news:
+    enabled: true
+  events:
+    enabled: true
+  abc:
+    enabled: true
+
 
